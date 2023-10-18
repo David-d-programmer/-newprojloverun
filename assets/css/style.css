@@ -54,7 +54,7 @@ h1 {
 
 }
 .active {
-    border-bottom: 1px #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -126,5 +126,12 @@ footer {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
+    }
+}
+
+/* Media query: laptops and larger (992px and higher) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
     }
 }
