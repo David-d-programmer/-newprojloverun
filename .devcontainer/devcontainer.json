@@ -17,7 +17,8 @@ u{
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-python.python",
+        "ms-python.python",3 -m 
+        
         "formulahendry.auto-close-tag",
         "eventyret.bootstrap-4-cdn-snippet",
         "esbenp.prettier-vscode",
