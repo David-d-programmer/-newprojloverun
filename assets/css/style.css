@@ -191,6 +191,8 @@ main {
     width: 100vw;
 }
 
+
+
 /* footer */
 #social-networks {
     text-align: center;
@@ -278,7 +280,7 @@ main {
     }
 }
 
-/* Media query: laptops and larger (992px and higher) */
+/* Media query: (1200px and higher) */
 @media screen and  (min-width: 1200px) {
     /* Reasons sections */
     #benefits {
