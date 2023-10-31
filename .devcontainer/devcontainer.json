@@ -1,4 +1,14 @@
 u{
+      "name": "Codeinstitute template",
+        "dockerComposeFile": "docker-compose.yml",
+          "service": "app",
+            "workspaceFolder": "/workspace/template",
+            
+              "customizations": {
+                  "vscode": {
+                        "extensions": [
+                                "ms-python.python",
+                                {
   "name": "Codeinstitute template",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
